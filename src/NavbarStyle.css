@@ -1,0 +1,15 @@
+.navbar-brand {
+    color: lightgreen;
+}
+
+.navbar-brand:hover {
+    color: lightgreen;
+}
+
+.nav-link:hover {
+    color: green;
+}
+
+.nav-link {
+    color: lightgrey;
+}

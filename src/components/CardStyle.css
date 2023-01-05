@@ -1,0 +1,32 @@
+
+.card {
+    padding: 5px 5px !important;
+    height: auto !important;
+    justify-content: center;
+    margin: 1rem;
+}
+
+.card-body {
+    margin: 0;
+}
+
+.card-img {
+    height: 8rem;
+    width: auto;
+    align-content: flex-start;
+}
+
+.card-text {
+    width: auto;
+    height: fit-content;
+    margin-top: 1rem;
+    margin-left: 1rem;
+    font-weight: 100;
+    line-height: 0.7;
+    text-align: left;
+    letter-spacing: -1px;
+}
+
+.btn-edit{
+    margin-top: -1rem;
+}
