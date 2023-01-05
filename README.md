@@ -1,31 +1,22 @@
-# Welcome to my Student Manager App
-
-Manage all your student details!
+# MyApp - Student Manager Application
 
 ## User Guide
 
+To open application you need to open project folder and inside open Cmd. Inside cmd type npm start and that should open the application inside the browser.
 In the application, you can:
-
-### `Read`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
 ### `Create`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Inside the page called "Add Student" you will find form to add new student, filling out the form with the student info and clicking on the add student button will add
+new student to the database.
+
+
+### `Read`
+
+Inside the page called "View All" you can see all student info previosuly added using New Student form inside "Add Student" page.
 
 ### `Edit`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Below every student card there is edit and delete button, edit button will open edit page where you can edit student information using
+dedicated form and delete button will delete student infromation from the database.
 
